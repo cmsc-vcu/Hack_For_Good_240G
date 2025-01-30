@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "Be Aware!"
+  navbar:
+    left:
+      - href: mainPage.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
