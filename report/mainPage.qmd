@@ -1,10 +1,5 @@
 ---
 title: Hack For Good! Know your Carbon Footprint!
-authors:
-- Andrew Nelson
-- Delaney Selb
-- Robert Eaton
-- Hunter Smith
 date: last-modified
 toc: true
 toc-depth: 3

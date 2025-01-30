@@ -1,5 +1,13 @@
 ---
-title: "About"
+title: "About Us"
+author: 240g gang
+format: 
+    html: 
+        theme: superhero
+        toc: true
+        html-math-method: katex
+        embed-resources: true
+        copy-code: true
 ---
 
-about this site
+This website is a product we made for our group's first ever hack-athon and really we are just excited that we were able to make something to begin with. All of us were really nervous going into this hackathon on what exactly we wanted to do and wanted to make, but we all had a great time getting to learn more about each other and learn more about making real products!
