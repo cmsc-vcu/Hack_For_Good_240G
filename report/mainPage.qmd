@@ -22,19 +22,50 @@ The effects of the warming climate on our daily lives cannot be understated as w
 
 ### Recycling
 
-something regarding recycling
+- **Conserve Resources:** Recycling reduces the need for timber, water, and minerals.  
+- **Climate Impact:** In 2018, recycling and composting prevented 193 million metric tons of CO₂.  
+- **Save Energy:** Recycling 10 plastic bottles powers a laptop for 25+ hours.  
+- **Reduce Waste & Pollution:** Recycling keeps waste out of landfills and lowers emissions.
+[Source (EPA)](https://www.epa.gov/recycle/recycling-basics-and-benefits#:~:text=Waste%20and%20pollution%20reduction%3A%20Recycling,effects%20of%20pollution%20and%20emissions)
+.
 
 ### Resource Conservation
 
-something regarding resource conservation 
+- **Preserves Raw Materials:** Recycling reduces the need for new timber, water, and minerals.  
+- **Reduces Energy Use:** Recycling saves energy, like powering a laptop for 25+ hours by recycling 10 plastic bottles.  
+- **Minimizes Resource Extraction:** Helps reduce the environmental impact of mining, logging, and drilling.  
+- **Promotes Sustainability:** Recycling ensures the continued availability of resources for future generations.
 
 ### Transportation
 
-something regarding transportation
+- **Reduces Emissions:** Efficient transportation systems lower greenhouse gas emissions and air pollution.  
+- **Conserves Fuel:** Public transit, biking, and carpooling reduce reliance on fossil fuels.  
+- **Decreases Traffic Congestion:** Improved transportation planning minimizes road congestion and travel time.  
+- **Supports Sustainable Mobility:** Investing in eco-friendly transport options promotes long-term environmental benefits.
 
-## Conclusion 
+### **Take Action Today**  
 
-something regarding the conclusion
+Protecting the environment starts with simple everyday choices. Recycle when you can, use less energy, choose sustainable transportation, and cut down on waste. Small actions add up, and the more people who make these changes, the bigger the impact. Do your part, spread the word, and help create a cleaner, healthier planet for the future.
+
+### Log
+
+<center>
+iframe
+src="https://editor.p5js.org/FELOrob/sketches/gXF2mW1l3""
+width=450
+height=250
+data-external="1"
+</iframe>
+</center>
+
+Log:
+<form action = "https://editor.p5js.org/FELOrob/sketches/gXF2mW1l3">
+        <fieldset>
+                <legend>Bottles Recycled</legend>
+                <input type="text" name="bottlesrecycled" placeholder="8 bottles">
+                <button type="submit">Enter</button>
+        </fieldset>
+</form>
 
 
 
