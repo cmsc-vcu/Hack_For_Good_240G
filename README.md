@@ -1,4 +1,4 @@
-# cmsc508-fa2023-hw8-template
+# Hackathon Project for Hacks For Good
 
 YOU are responsible for a nice README.md file.  Here are more tips and suggestions:
 
