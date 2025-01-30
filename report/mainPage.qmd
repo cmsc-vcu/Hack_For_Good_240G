@@ -27,11 +27,19 @@ The effects of the warming climate on our daily lives cannot be understated as w
 
 ### Recycling
 
-something regarding recycling
+- **Conserve Resources:** Recycling reduces the need for timber, water, and minerals.  
+- **Climate Impact:** In 2018, recycling and composting prevented 193 million metric tons of CO₂.  
+- **Save Energy:** Recycling 10 plastic bottles powers a laptop for 25+ hours.  
+- **Reduce Waste & Pollution:** Recycling keeps waste out of landfills and lowers emissions.
+[Source (EPA)](https://www.epa.gov/recycle/recycling-basics-and-benefits#:~:text=Waste%20and%20pollution%20reduction%3A%20Recycling,effects%20of%20pollution%20and%20emissions)
+.
 
 ### Resource Conservation
 
-something regarding resource conservation 
+- **Preserves Raw Materials:** Recycling reduces the need for new timber, water, and minerals.  
+- **Reduces Energy Use:** Recycling saves energy, like powering a laptop for 25+ hours by recycling 10 plastic bottles.  
+- **Minimizes Resource Extraction:** Helps reduce the environmental impact of mining, logging, and drilling.  
+- **Promotes Sustainability:** Recycling ensures the continued availability of resources for future generations.
 
 ### Transportation
 
